@@ -33,3 +33,20 @@
     <li><a href="https://mariaeduardapj.github.io/html-css/modulo3/exercicios/ex023/tabela006.html">Executar o exercício 023</a></li>
     <li><a href="https://mariaeduardapj.github.io/html-css/modulo4/exercicios/ex024/iframe003.html">Executar o exercício 024</a></li>
  </ul>
+
+ <ul>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d001/index.html">Executar o desafio 001</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d002/index.html">Executar o desafio 002</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d003/index.html">Executar o desafio 003</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d004/index.html">Executar o desafio 004</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d005/index.html">Executar o desafio 005</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d006/index.html">Executar o desafio 006</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d007/index.html">Executar o desafio 007</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d008/index.html">Executar o desafio 008</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo1/desafios/d009/index.html">Executar o desafio 009</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo2/desafios/d010/android.html">Executar o desafio 010</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo2/desafios/d011/index.html">Executar o desafio 011</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo2/desafios/d012/index.html">Executar o desafio 012</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo2/desafios/d013/index.html">Executar o desafio 013</a></li>
+    <li><a href="https://mariaeduardapj.github.io/https-css/modulo2/desafios/d014/index.html">Executar o desafio 014</a></li>
+ </ul>
