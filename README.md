@@ -18,9 +18,12 @@
     <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercícios/ex014/index.html">Executar o exercício 014</a></li>
     <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercícios/ex015/index.html">Executar o exercício 015</a></li>
     <li><a href="https://mariaeduardapj.github.io/html-css/modulo2/exercicios/ex016/index.html">Executar o exercício 016</a></li>
-    <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercicios/ex017/index.html">Executar o exercício 017</a></li>
-    <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercicios/ex018/index.html">Executar o exercício 018</a></li>
-    <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercicios/ex019/index.html">Executar o exercício 019</a></li>
-    <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercicios/ex020/index.html">Executar o exercício 020</a></li>
-    <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercicios/ex021/index.html">Executar o exercício 021</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo2/exercicios/ex017/index.html">Executar o exercício 017</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo2/exercicios/ex018/index.html">Executar o exercício 018</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo2/exercicios/ex019/index.html">Executar o exercício 019</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo2/exercicios/ex020/index.html">Executar o exercício 020</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo2/exercicios/ex021/index.html">Executar o exercício 021</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo3/exercicios/ex022/index.html">Executar o exercício 022</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo3/exercicios/ex023/index.html">Executar o exercício 023</a></li>
+    <li><a href="https://mariaeduardapj.github.io/html-css/modulo4/exercicios/ex024/index.html">Executar o exercício 024</a></li>
  </ul>
