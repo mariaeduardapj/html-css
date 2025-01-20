@@ -1,9 +1,12 @@
 # html-css
  Curso de HTML5 e CSS3 do CursoemVideo
 
- ul {
-    columns: 2;
- }
+ <style>
+     ul {
+        columns: 2;
+        list-style-type: none;
+     }
+ </style>
 
  <ul>
     <li><a href="https://mariaeduardapj.github.io/html-css/modulo1/exercícios/ex001/index.html">Executar o exercício 001</a></li>
